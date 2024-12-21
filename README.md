@@ -6,5 +6,3 @@
 
 - I'm interested in picking up C++, exploring more low level programming and Machine Learning outside of uni
 - I’m always dreaming up too many projects to count. Which includes anything from video games, Raspberry Pi projects, mobile apps/games...
-
-- Fun fact: I use Arch btw
